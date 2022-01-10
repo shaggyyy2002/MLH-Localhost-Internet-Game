@@ -1,4 +1,5 @@
 # Multiplayer Reversi Game on Internet Computer
+This Game was a part of MLH Local Hack Build 2022, Dfinity Workshop we have added some new features as a part of Local Build. 
 
 **[Read about how the game was made!](https://ninegua.github.io/reversi)**
 
